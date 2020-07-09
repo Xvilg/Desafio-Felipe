@@ -1,0 +1,21 @@
+* {
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+i {
+    padding: 5px;
+    
+}
+
+ i.fab.fa-apple  {
+     font-size: 35px;
+     
+ }
+ i.fas.fa-apple-alt {
+     font-size: 30px;
+     padding: 5px;
+
+ }
+ 
